@@ -16,3 +16,5 @@
 - Na ponta da pirâmide temos os testes de interface (UI).
 
 ![image](https://github.com/LucassPimentel/TestesComponentesReact/assets/95232367/81581132-db76-4832-9860-263c3cc3a237)
+
+OBS: Projeto roi realizado através do curso "React: testando os seus componentes", também é importante lembrar que o mesmo visa apenas o aprendizado de testes, logo não há estilização.
