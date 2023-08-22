@@ -1,14 +1,14 @@
 # Aprendendo a testar componentes React
-#### BIBLIOTECAS UTILIZADAS:
+#### Biblioteca Utilizada:
 - Testing library
  
-#### FRAMEWORKS UTILIZADOS:
+#### Framework Utilizado:
 - Jest
 
-#### Conceitos
-TDD (Test Driven Development)
+#### Conceito
+- TDD (Test Driven Development)
 
-#### Pirâmide de Testes 
+#### Pirâmide de Testes:
 - Na base da pirâmide de testes nós temos o teste de unidade, que é mais rápido de ser feito e mais barato.
 
 -  No meio temos os testes de serviço ou integração, momento em que os componentes são testados em conjunto.
